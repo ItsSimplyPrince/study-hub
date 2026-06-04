@@ -1,0 +1,8 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+computer-use-agent/.venv/
+computer-use-agent/**/__pycache__/
+computer-use-agent/**/*.png
